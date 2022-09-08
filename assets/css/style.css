@@ -1,0 +1,175 @@
+.logo-tipografia{
+    font-size: 37px;
+    color: #ffff;
+    padding: 0px 52px;
+    margin: 3px 0px;
+   font: 400 50px Lobster
+}
+.navbar-toggler-icon{
+    color: #ffff;
+}
+
+
+
+
+
+.img-prin{
+    height: 384px;
+    width: 482px
+}
+
+.pag-prin{
+    display: flex;
+   margin: 75px 0px;
+   justify-content: center;
+}
+.p-titulo{
+    font:700 47px Cabin;
+    color: #373A3C;
+    margin: 30px 0px;
+    width: 425px;
+}
+.detalles{
+    font: 700 26px Cabin;
+    color: #373A3C;
+}
+
+.botones{
+    display:block;
+    font: 400 16px Cabin;
+    color: #373A3C;
+}
+.b-2{
+    margin: 0px 15px;
+    height: 40pt;
+    width: 141.71pt;
+
+}
+.b-1{
+    height: 40pt;
+    width: 141.71pt;
+}
+.bloque-text{
+    margin: 30px 16px ;
+}
+
+.carrousel{
+    margin: 30px 50px;
+    padding: 30px 50px; 
+}
+
+
+.contenido-pizza{
+    display: flex;
+    justify-content: center;
+}
+.ingredientes2{
+    width: 482px;
+
+    font: 400 16px Cabin;
+    color: #373A3C;
+    justify-content: center;
+}
+.preparacion2{
+    width: 354px;
+    margin: 0px 30x;
+    font: 400 16px Cabin;
+    color: #373A3C;
+    justify-content: center;
+}
+.pp{
+    font: 400 20px Cabin;
+    color: #373A3C;
+}
+.i-i{
+    font: 400 20px Cabin;
+    color: #373A3C;
+}
+
+
+
+.recetas-variadas{
+    justify-content: center
+}
+.recetasr{
+    text-align: center;
+    margin: 95px 0px;
+    font: 700 50px Cabin;
+    color: #373A3C;
+}
+.bloques-variedades{
+    display: flex;
+    justify-content: center
+
+}
+.bloques-variedades{
+    margin: 78px 0px;
+}
+.Panqueques{
+    width: 316px;
+    margin: 30px;
+}
+.Tiramisu{
+    width: 316px;
+    margin: 30px;
+}
+.Plateada{
+    width: 316px;
+    margin: 30px;
+}
+.titulo1{
+    font: 700 23px Cabin;
+    color: #373A3C;
+}
+.contenido1{
+    font: 400 16px Cabin;
+    color: #373A3C;
+}
+
+
+.bloquerosa{
+    height: 318px;
+    width:auto;
+    justify-content: center;
+    text-align: center;
+    padding: 80px 0px;
+}
+.suscripcion{
+    font: 700 30px Cabin;
+    color: #ffff;
+}
+.promocion{
+    font: 700 20px Cabin;
+    color: #ffff;
+}
+.logoentexto{
+    font: 400 20px Lobster;
+    color: #ffff;
+    padding: 0px 0px 0px 10px;
+}
+.ambasfuentes{
+    display: flex;
+    justify-content: center;
+}
+.b-3{
+    border: 2px #ffff solid;
+    height: 40px;
+    width: 233px;
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+
+
+.logofinal{
+    font: 400 37px Lobster;
+    color: #ffff;
+}
+.bloque-gris{
+    background-color: #373A3C;
+    height: 125px;
+    width: auto;
+    text-align: center;
+    color: #ffff;
+    padding: 40px 0px;
+}
